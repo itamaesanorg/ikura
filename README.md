@@ -1,3 +1,6 @@
+# tRPC and Prisma UPDATE!
+![image](https://user-images.githubusercontent.com/5947268/187805495-904951eb-5e6f-4be6-a621-94754082bba4.png)
+
 Important for security Reasons we removed all prisma related files, obviusly, just delete the folder, and install prisma again.
 
 Go to: 
