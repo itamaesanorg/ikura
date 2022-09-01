@@ -15,6 +15,7 @@
     "@trpc/next": "^9.27.2",
     "@trpc/react": "^9.27.2",
     "@trpc/server": "^9.27.2",
+    "@upstash/ratelimit": "^0.1.5",
     "framer-motion": "^7.2.1",
     "next": "12.2.5",
     "next-auth": "^4.10.3",
