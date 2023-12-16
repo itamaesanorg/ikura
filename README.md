@@ -1,3 +1,6 @@
+> [!WARNING]  
+> We have only 1 official domain: is itamaesan.org, anything else is non official.
+
 # tRPC and Prisma UPDATE!
 ![image](https://user-images.githubusercontent.com/5947268/187805495-904951eb-5e6f-4be6-a621-94754082bba4.png)
 
@@ -437,7 +440,6 @@ This also enables a way to order tasks as the Agile Scrum Manifesto states.
 ## Support
 
     🐣 Twitter: https://twitter.com/itamaesanorg
-    🌐 Homepage: https://itamaesan.org redirects to https://SushiJS.com
 
 - [Back to top 🔼](#Project-Organizer)
 
